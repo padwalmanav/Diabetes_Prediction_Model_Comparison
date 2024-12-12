@@ -30,7 +30,7 @@ This project involves predicting diabetes outcomes using various machine learnin
 
 3. Run the Streamlit:
     ```bash
-    python diabetes_prediction.py
+    streamlit run diabetes_prediction.py
     ```
 
 ## Visualizations
