@@ -19,8 +19,8 @@ This project involves predicting diabetes outcomes using various machine learnin
 ## Setup and Usage
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/diabetes-prediction.git
-    cd diabetes-prediction
+    git clone https://github.com/padwalmanav/Diabetes_Prediction_Models_Comparison.git
+    cd Diabetes_Prediction_Models_Comparison
     ```
 
 2. Install the required dependencies and libraries:
