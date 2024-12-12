@@ -1,4 +1,4 @@
-# Diabetes Prediction Project
+# Diabetes Prediction Models Comparison 
 
 This project involves predicting diabetes outcomes using various machine learning algorithms. The objective was to preprocess the data, build predictive models, and evaluate their performance using key metrics.
 
@@ -9,7 +9,7 @@ This project involves predicting diabetes outcomes using various machine learnin
   - Decision Trees
   - Random Forest
   - K-Nearest Neighbors (KNN)
-  - AdaBoost
+  - Logistic Regression
 - Performance evaluation using metrics like accuracy, precision, and recall.
 
 ## Results
@@ -23,12 +23,12 @@ This project involves predicting diabetes outcomes using various machine learnin
     cd diabetes-prediction
     ```
 
-2. Install the required dependencies:
+2. Install the required dependencies and libraries:
     ```bash
     pip install -r requirements.txt
     ```
 
-3. Run the notebook or script for preprocessing, training, and evaluation:
+3. Run the Streamlit:
     ```bash
     python diabetes_prediction.py
     ```
@@ -38,4 +38,4 @@ Matplotlib was used to plot evaluation metrics, allowing for a detailed comparis
 
 ## Key Takeaways
 - Preprocessing the data, including feature scaling, significantly improved model performance.
-- AdaBoost outperformed other models, providing a balance between accuracy, precision, and recall.
+- Random Forest outperformed other models, providing a balance between accuracy, precision, and recall.
